@@ -4,7 +4,7 @@ Hi 👋 My name is Rapture Chijioke Godson
 I am a Frontend developer with experience in building responsive web interfaces. Currently, I work remotely as a Frontend developer at Braln, where I collaborate with a small team of engineers building mostly products for the blockchain ecosystem. I have two years experience working with React JS, Tailwind CSS and I use these technologies on a daily basis.
 
 * 🌍  I'm based in Port Harcourt Nigeria
-* ✉️  You can contact me at [me.rapid79@gmail.com](mailto:me.rapid79@gmail.com)
+* ✉️  You can contact me at [coolpythoncodes@gmail.com](mailto:coolpythoncodes@gmail.com)
 * 🧠  I'm learning web3, node js, express
 
 <a href="https://www.twitter.com/devrapture" target="_blank" rel="noreferrer"><img
