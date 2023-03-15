@@ -5,7 +5,7 @@ I am a Frontend developer with experience in building responsive web interfaces.
 
 * 🌍  I'm based in Port Harcourt Nigeria
 * ✉️  You can contact me at [coolpythoncodes@gmail.com](mailto:coolpythoncodes@gmail.com)
-* 🧠  I'm learning web3 
+* 🧠  I'm learning Solidity at Zero-2-Hero BNB bootcamp powered by encode 
 
 <a href="https://www.twitter.com/devrapture" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/devrapture?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
